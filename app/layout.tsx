@@ -1,14 +1,10 @@
 // app/layout.tsx
 export const metadata = {
-  title: "Daphne Condino Portfolio",
-  description: "Junior Architect & Graphic Designer",
+  title: "Daphne Condino",
+  description: "Junior Architect Portfolio",
 };
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>{children}</body>
