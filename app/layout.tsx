@@ -1,7 +1,8 @@
 // app/layout.tsx
+
 export const metadata = {
   title: "Daphne Condino",
-  description: "Portfolio",
+  description: "Junior Architect Portfolio",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
