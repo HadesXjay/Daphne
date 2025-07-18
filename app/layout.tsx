@@ -1,5 +1,3 @@
-// app/layout.tsx
-
 export const metadata = {
   title: "Daphne Condino",
   description: "Junior Architect Portfolio",
